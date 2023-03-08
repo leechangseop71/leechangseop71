@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Leechangseop%20&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=&descSize=25&descAlign=85&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=changseop%20lee&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=Kyu_velop&descSize=25&descAlign=85&descAlignY=50)
 
 <div align="center">
 <h3>🍀 Me 🍀</h3>
