@@ -34,5 +34,5 @@
   <br>
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tatsuya71&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuya71&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leechangseop71&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechangseop71&layout=compact&theme=tokyonight)
