@@ -24,7 +24,7 @@
 const leechangseop71 = {
   name: "Lee changseop",
   pronouns: "she" | "her",
-  blog: "https://leechangseop.github.io",
+  blog: "https://leechangseop71.github.io",
   code: [JS, TS, HTML5, CSS3, SCSS],
   tools: [React, Redux, Node, Styled-Components],
   interest: ["Code Reusability", "Refactoring", "Testing", "Review"]
