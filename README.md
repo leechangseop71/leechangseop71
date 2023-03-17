@@ -1,6 +1,6 @@
 ## 😄 Hi, I'm Changseop Lee.
 
-<img src="https://leechangseop.github.io/static/profile.png" height="auto" width="300" style="border-radius:100%">
+
 
 
 <i>Welcome to my page!</i> <br>
