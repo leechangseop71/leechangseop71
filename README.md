@@ -22,7 +22,7 @@
 ```javascript
 const leechangseop71 = {
   name: "Lee changseop",
-  blog: https://velog.io/@haseuki71,
+  blog: #20C997
   code: [JS, TS, HTML5, CSS3, SCSS],
   tools: [React, Redux, Node, Styled-Components],
   interest: ["Code Reusability", "Refactoring", "Testing", "Review"]
