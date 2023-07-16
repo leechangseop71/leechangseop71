@@ -22,7 +22,7 @@
 ```javascript
 const leechangseop71 = {
   name: "Lee changseop",
-  blog: #20C997
+  blog: <img src="https://velog.io/@haseuki71/badge/Velog-#20C997?style=for-the-badge&logo=    Velog&logoColor=#20C997">
   code: [JS, TS, HTML5, CSS3, SCSS],
   tools: [React, Redux, Node, Styled-Components],
   interest: ["Code Reusability", "Refactoring", "Testing", "Review"]
