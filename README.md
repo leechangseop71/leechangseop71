@@ -22,7 +22,6 @@
 ```javascript
 const leechangseop71 = {
   name: "Lee changseop",
-  blog: <img src="https://img.shields.io/badge/Velog-3776AB?style=for-the-badge&logo=Velog&logoColor=white">
   code: [JS, TS, HTML5, CSS3, SCSS],
   tools: [React, Redux, Node, Styled-Components],
   interest: ["Code Reusability", "Refactoring", "Testing", "Review"]
