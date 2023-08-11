@@ -7,6 +7,7 @@
 <i>Frontend developer. currently living in daegu, Korea.</i><br><br>
 
 <a href="https://velog.io/@haseuki71"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@haseuki71"/></a>
+<a href="mailto:haseuki71@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=haseuki71@gmail.com"/></a>
 
 ### I code with.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
