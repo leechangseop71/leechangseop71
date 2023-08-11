@@ -6,6 +6,8 @@
 <i>Welcome to my page!</i> <br>
 <i>Frontend developer. currently living in daegu, Korea.</i><br><br>
 
+<a href="https://velog.io/@haseuki71"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@haseuki71"/></a>
+
 ### I code with.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/-css3-007ACC?style=flat-square&logo=css3&logoColor=white)
