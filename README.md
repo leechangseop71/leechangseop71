@@ -30,7 +30,7 @@ const leechangseop71 = {
   interest: ["Code Reusability", "Refactoring", "Testing", "Review"]
 }
 ```
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechangseop71%2F%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechangseop71%2Fhit-counter&count_bg=%23A6A8AE&title_bg=%23131111&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leechangseop71&show_icons=true&theme=tokyonight)
