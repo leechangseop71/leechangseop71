@@ -21,9 +21,7 @@
 ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ### I code with.
-[Rcoil]
-[React-Query]
-[Next.js]
+
 <br><br>
                   
 ### A little more about me.
