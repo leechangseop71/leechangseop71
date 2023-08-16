@@ -20,7 +20,8 @@
 <br>
 ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Git](https://img.shields.io/badge/-Git-#F05032?style=flat-square&logo=react&logoColor=white)### I code with.
+![Git](https://img.shields.io/badge/-Git-#F05032?style=flat-square&logo=react&logoColor=white)
+### I code with.
 
 <br><br>
                   
