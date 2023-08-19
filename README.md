@@ -1,7 +1,9 @@
-## 😄 Hi, I'm Changseop Lee.
+<div align=center>
+  
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=70faac&height=260&section=header&text=😄 Hi, I'm Changseop Lee.&fontSizew44)
+<div align=center>
 
-
-
+## 
 
 <i>Welcome to my page!</i> <br>
 <i>Frontend developer. currently living in daegu, Korea.</i><br><br>
