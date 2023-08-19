@@ -9,17 +9,20 @@
 <a href="https://velog.io/@haseuki71"><img src="https://img.shields.io/badge/velog%20-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@haseuki71"/></a>
 <a href="mailto:haseuki71@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=haseuki71@gmail.com"/></a>
 
-[basic]
+[BASICS]
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/-css3-007ACC?style=flat-square&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=black)
 <br>
 
-[famework]
+[FRAEWORKS]
 <br>
 ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+<br>
+
+[EXTRA]
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 ### I code with.
