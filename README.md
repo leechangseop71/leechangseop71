@@ -1,9 +1,9 @@
 <div align=center>
   
- ![header](https://capsule-render.vercel.app/api?type=waving&color=70faac&height=260&section=header&text=😄 Hi, I'm Changseop Lee.&fontSizew44)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=70faac&height=260&section=header&text=LEECHANGSEOP&fontSizew44)
 <div align=center>
 
-## 
+  <h2 align=center>🫠 Web Front-end developer</h2>
 
 <i>Welcome to my page!</i> <br>
 <i>Frontend developer. currently living in daegu, Korea.</i><br><br>
