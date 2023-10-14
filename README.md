@@ -8,33 +8,20 @@
 <i>Welcome to my page!</i> <br>
 <i>Frontend developer. currently living in daegu, Korea.</i><br><br>
 
-[SNS]
-<br>
-<a href="https://velog.io/@haseuki71"><img src="https://img.shields.io/badge/velog%20-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@haseuki71"/></a>
-<a href="mailto:haseuki71@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=haseuki71@gmail.com"/></a>
-<br>
-
-[BASICS}
-<br>
+### I code with.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/-css3-007ACC?style=flat-square&logo=css3&logoColor=white)
+![Scss](https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=black)
-<br>
-
-[FRAMEWORKS]
-<br>
 ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>   
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<br>
-
-[EXTRA]
-<br>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<br>
-### I code with.
+![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) <br>
+[Rcoil]
+[React-Query]
+[Next.js]
+<br><br>
 
 <br><br>
                   
