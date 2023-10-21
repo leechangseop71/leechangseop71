@@ -25,16 +25,6 @@
 
 <br><br>
                   
-### A little more about me.
-```javascript
-const leechangseop71 = {
-  name: "Lee changseop",
-  pronouns: "he" | "him"
-  code: [JS, TS, HTML5, CSS3, SCSS],
-  tools: [React, Redux, Node, Styled-Components],
-  interest: ["Code Reusability", "Refactoring", "Testing", "Review"]
-}
-```
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechangseop71%2Fhit-counter&count_bg=%23A6A8AE&title_bg=%23131111&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
