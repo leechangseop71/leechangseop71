@@ -9,7 +9,7 @@
 <i>Frontend developer. currently living in daegu, Korea.</i><br><br>
 
 [![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/haseuki87)](https://blog.naver.com/haseuki87)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leechangseop71.github.io/)](leechangseop71.github.io)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:leechangseop71.github.io/)](https://leechangseop71.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haseuki71@gmail.com)](mailto:haseuki71@gmail.com)
 
 
