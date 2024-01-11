@@ -1,6 +1,6 @@
 <div align=center>
   
- ![header](https://capsule-render.vercel.app/api?type=waving&color=70faac&height=260&section=header&text=LEECHANGSEOP&fontSizew44)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=70faac&height=260&section=header&text=WELCOME&fontSizew44)
 <div align=center>
 
   <h2 align=center>🫠 Web Front-end developer</h2>
