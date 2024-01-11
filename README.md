@@ -8,6 +8,7 @@
 <i>Welcome to my page!</i> <br>
 <i>Frontend developer. currently living in daegu, Korea.</i><br><br>
 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/bd6d0c6471c047e9a4f8e8cd7ff9d1fc?pvs=4)](https://www.notion.so/bd6d0c6471c047e9a4f8e8cd7ff9d1fc?pvs=4)
 [![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/haseuki87)](https://blog.naver.com/haseuki87)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leechangseop71.github.io/)](https://leechangseop71.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haseuki71@gmail.com)](mailto:haseuki71@gmail.com)
