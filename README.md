@@ -7,6 +7,8 @@
 
 <i>White hacker changed....Storage space for basic study</i> <br>
 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+
 <br><br>
                   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechangseop71%2Fhit-counter&count_bg=%23A6A8AE&title_bg=%23131111&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
